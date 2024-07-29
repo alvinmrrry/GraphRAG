@@ -113,7 +113,7 @@ regex==2023.12.25
 requests==2.31.0
 rich==13.7.0
 safetensors==0.4.2
-scikit-learn==1.4.0
+scikit-learn==1.4.2
 scipy==1.12.0
 Send2Trash==1.8.0
 sentence-transformers==2.3.1
