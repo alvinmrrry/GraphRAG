@@ -82,7 +82,7 @@ notebook_shim==0.2.0
 numpy==1.25.2
 openai==1.35.7
 packaging==23.2
-pandas==1.5.1
+pandas==2.2.0
 pandocfilters==1.5.0
 parso==0.8.3
 pexpect==4.8.0
